@@ -1,5 +1,5 @@
 ﻿# Controlling a heat pump in a heating system of residential building
-The work originated at the Wrocław University of Science and Technology. 
+The thesis was written at the Wrocław University of Science and Technology.  
 ## Overview
 In the context of increasing demand for sustainable and energy-efficient technologies, effective control of heat pumps has become a critical aspect of residential heating systems. This project focuses on developing a heat pump control system based on a precisely defined object model created in Matlab Simulink.
 
