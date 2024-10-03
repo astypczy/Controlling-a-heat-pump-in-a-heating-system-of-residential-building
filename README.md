@@ -1,5 +1,5 @@
 ﻿# Controlling a heat pump in a heating system of residential building
-The thesis was written at the Wrocław University of Science and Technology.  
+The thesis was written in Polish at the Wrocław University of Science and Technology.  
 ## Overview
 In the context of increasing demand for sustainable and energy-efficient technologies, effective control of heat pumps has become a critical aspect of residential heating systems. This project focuses on developing a heat pump control system based on a precisely defined object model created in Matlab Simulink.
 
@@ -28,6 +28,4 @@ Regulator Design:
 ##  Summary
 The developed heat pump model successfully incorporated variable heating power, energy consumption, and efficiency factors. Additionally, safeguards were implemented to prevent the compressor from operating at extreme frequencies and to ensure minimum water flow. However, due to the system's constraints and variability, care was needed to avoid boundary values during simulation, as these could cause oscillations.
 
-Three types of control strategies were implemented: open control based on weather curves, and room and weather-based closed-loop controls. Room-based controllers showed superior performance in dynamic regulation and responsiveness to disturbances, like window ventilation, but at the cost of higher energy consumption. Weather-based controls were effective but slower to react to sudden changes.
-
-The engineering thesis is written in Polish. 
+Three types of control strategies were implemented: open control based on weather curves, and room and weather-based closed-loop controls. Room-based controllers showed superior performance in dynamic regulation and responsiveness to disturbances, like window ventilation, but at the cost of higher energy consumption. Weather-based controls were effective but slower to react to sudden changes. 
